@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": " Nivea Deo Roll-on- White Pearls & 0% Alcohol , for Smooth Underarms, 48H freshness and odour protection ",
+        "offer_price": 77,
+        "original_price": 115,
+        "discount": "33% off",
+        "img": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/348509/nivea-women-deodorant-roll-on-pearl-and-beauty-radiance-for-eventoned-smooth-and-beautiful-underarms-25-ml_1_display_1649491111_c17007a5.jpg "
+    },
+    {
+        "id": 2,
+        "name": " DERMDOC by Purplle 5% Glycolic Acid Under Arm Treatment (100ml) | whitening underarms, darkened underarms, underarm lightening treatment, dark underarm spray, glycolic acid for skin lightening | hyperpigmentation under arms ",
+        "offer_price": 276,
+        "original_price": 325,
+        "discount": "15% off",
+        "img": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_13_display_1697116151_7ac20b84.jpg "
+    },
+    {
+        "id": 3,
+        "name": " NY Bae PRO Strobe Cream | Primer + Highlighter + Moisturizer | Glowing Korean Skin - Pink Topaz (12 g) ",
+        "offer_price": 255,
+        "original_price": 269,
+        "discount": "5% off",
+        "img": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/366686/ny-bae-pro-strobe-cream-pink-topaz-12gm-50-46_8_display_1698997608_9b3c1bd4.jpg "
+    },
+    {
+        "id": 4,
+        "name": " Insight Cosmetics Pro Concealer Palette ",
+        "offer_price": 189,
+        "original_price": 210,
+        "discount": "10% off",
+        "img": " https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/345646/pro-concealer-palette_concealer-92_6_display_1630211892_4ac419de.jpg"
+    },
+    {
+        "id": 5,
+        "name": " Good Vibes Ubtan Insta Glow Powder | 100% Natural, No Preservatives, No Pesticides, No Parabens, No Silicones, No Sulphates, No Animal Testing (150 g) ",
+        "offer_price": 308,
+        "original_price": 325,
+        "discount": "5% off",
+        "img": " https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/367354/good-vibes-ubtan-insta-glow-powder-100-percentage-natural-no-preservatives-no-pesticides-no-parabens-no-silicones-no-sulphates-no-animal-testing-150-g_7_display_1697439254_accc2cf2.jpg"
+    },
+    {
+        "id": 6,
+        "name": " DERMDOC by Purplle 10% Niacinamide Face Serum (15ml) | skin radiance face serum | niacinamide serum | niacinamide for face | niacinamide serum for oily skin | skin brightening serum ",
+        "offer_price": 205,
+        "original_price": 285,
+        "discount": "28% off",
+        "img": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/353083/dermdoc-by-purplle-10-percentage-niacinamide-face-serum-15ml-skin-radiance-face-serum-niacinamide-serum_12_display_1697116228_917b4c64.jpg "
+    },
+    {
+        "id": 7,
+        "name": " DERMDOC by Purplle 2% Kojic Acid Night Cream (50g) | kojic acid cream for hyperpigmentation | kojic acid for dark spots | skin whitening | kojic acid brightening cream | pigmentation on face ",
+        "offer_price": 270,
+        "original_price": 300,
+        "discount": "10% off",
+        "img": " https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/296956/dermdoc-damage-recovery-night-cream-with-2-percentage-kojic-acid-50-gm_12_display_1697116337_94652ae0.jpg"
+    },
+    {
+        "id": 8,
+        "name": " Good Vibes De-Tan Glow Night Cream Ubtan with Power of Serum | No Parabens, No Animal Testing, Vegan, No Mineral Oil, No Sulphates (50 g) ",
+        "offer_price": 217,
+        "original_price": 290,
+        "discount": "25% off",
+        "img": " https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_13_display_1690806913_2d5ebe57.jpg"
+    },
+    {
+        "id": 9,
+        "name": " NY Bae PRO Strobe Cream | Primer + Highlighter + Moisturizer | Glowing Korean Skin - Rose Diamond (12 g) ",
+        "offer_price": 255,
+        "original_price": 269,
+        "discount": "5% off",
+        "img": " https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/365888/ny-bae-pro-strobe-cream-rose-diamond-12-gm-10-15_8_display_1698997563_a5a9bd37.jpg"
+    },
+    {
+        "id": 10,
+        "name": " Cetaphil Gentle Skin CleanserDry to Normal,Sensitive Skin (125 ml) ",
+        "offer_price": 359,
+        "original_price": 399,
+        "discount": "10% off",
+        "img": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/367067/cetaphil-gentle-skin-cleanser-125-ml-71_2_display_1679830401_68c9859a.jpg "
+    }
+]
